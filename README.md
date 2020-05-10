@@ -2,7 +2,7 @@
 FiveM Lua Script that prints out a DrawNotification
 
 # Installation
-1. Drag the robbeer folder into the resource folder of your FXServer folder.
+1. Drag the robber folder into the resource folder of your FXServer folder.
 2. Edit your server.cfg and add "start robber" to the resource list.
 
 # Usage
